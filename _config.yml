@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3402484356917197
+  lightness: 0.15181416834625616
+  rhythmicContrast: 0.6975368991675569
+  saturation: 0.39892287450707653
+cta: {}
+layout_spectrum: 0.9442041680549966
+name: localwebninja
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.08888348817449443
